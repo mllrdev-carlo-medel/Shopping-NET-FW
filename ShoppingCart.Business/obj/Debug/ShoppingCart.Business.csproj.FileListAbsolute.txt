@@ -1,0 +1,11 @@
+D:\Visual Studio\Projects\ShoppingCart.Business\bin\Debug\ShoppingCart.Business.dll
+D:\Visual Studio\Projects\ShoppingCart.Business\bin\Debug\ShoppingCart.Business.pdb
+D:\Visual Studio\Projects\ShoppingCart.Business\bin\Debug\Dapper.dll
+D:\Visual Studio\Projects\ShoppingCart.Business\bin\Debug\log4net.dll
+D:\Visual Studio\Projects\ShoppingCart.Business\bin\Debug\Dapper.xml
+D:\Visual Studio\Projects\ShoppingCart.Business\bin\Debug\log4net.xml
+D:\Visual Studio\Projects\ShoppingCart.Business\obj\Debug\ShoppingCart.Business.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\ShoppingCart.Business\obj\Debug\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\ShoppingCart.Business\obj\Debug\ShoppingCart.Business.csproj.CopyComplete
+D:\Visual Studio\Projects\ShoppingCart.Business\obj\Debug\ShoppingCart.Business.dll
+D:\Visual Studio\Projects\ShoppingCart.Business\obj\Debug\ShoppingCart.Business.pdb

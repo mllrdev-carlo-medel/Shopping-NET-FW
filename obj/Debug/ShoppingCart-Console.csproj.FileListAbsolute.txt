@@ -1,0 +1,14 @@
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\ShoppingCart-Console.exe.config
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\ShoppingCart-Console.exe
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\ShoppingCart-Console.pdb
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\log4net.dll
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\ShoppingCart.Business.dll
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\Dapper.dll
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\ShoppingCart.Business.pdb
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\log4net.xml
+D:\Visual Studio\Projects\ShoppingCart-Console\bin\Debug\Dapper.xml
+D:\Visual Studio\Projects\ShoppingCart-Console\obj\Debug\ShoppingCart-Console.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\ShoppingCart-Console\obj\Debug\ShoppingCart-Console.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\ShoppingCart-Console\obj\Debug\ShoppingCart-Console.csproj.CopyComplete
+D:\Visual Studio\Projects\ShoppingCart-Console\obj\Debug\ShoppingCart-Console.exe
+D:\Visual Studio\Projects\ShoppingCart-Console\obj\Debug\ShoppingCart-Console.pdb
